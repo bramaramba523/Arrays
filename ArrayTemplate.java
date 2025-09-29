@@ -1,7 +1,9 @@
-package javaPG;
-
+package pack12;
 import java.util.Scanner;
 
+//type[] arrayName;
+int[] a1;
+//int[] arrayName=new int[s];
 public class ArrayTemplate {
 
 	public static void main(String[] args) {
@@ -23,4 +25,7 @@ for(int i=0;i<=n;i++)
 	System.out.println(arr[i]+"");
 }sc.close();
 	}
+
 }
+
+
